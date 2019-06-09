@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Code LI</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://psyqin.github.io/"/>
+  <updated>2019-06-09T07:49:30.694Z</updated>
+  <id>http://psyqin.github.io/</id>
+  
+  <author>
+    <name>CodeLi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>text</title>
+    <link href="http://psyqin.github.io/2019/06/09/text/"/>
+    <id>http://psyqin.github.io/2019/06/09/text/</id>
+    <published>2019-06-09T07:49:30.000Z</published>
+    <updated>2019-06-09T07:49:30.694Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
