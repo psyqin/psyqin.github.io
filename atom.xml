@@ -3,11 +3,11 @@
   <title>Code LI</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://psyqin.github.io/"/>
+  <link href="http://psyqin.github.io/blog/"/>
   <updated>2019-06-09T07:49:30.694Z</updated>
-  <id>http://psyqin.github.io/</id>
+  <id>http://psyqin.github.io/blog/</id>
   
   <author>
     <name>CodeLi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>text</title>
-    <link href="http://psyqin.github.io/2019/06/09/text/"/>
-    <id>http://psyqin.github.io/2019/06/09/text/</id>
+    <link href="http://psyqin.github.io/blog/2019/06/09/text/"/>
+    <id>http://psyqin.github.io/blog/2019/06/09/text/</id>
     <published>2019-06-09T07:49:30.000Z</published>
     <updated>2019-06-09T07:49:30.694Z</updated>
     
